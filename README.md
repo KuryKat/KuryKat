@@ -12,7 +12,7 @@
     - Main Language: JavaScript [Expert]
     - Secondary Language: C# [Intermediate]
   - Languages:
-    - Portuguese [Native]
+    - Portuguese [Fluent - Native]
     - English - [Intermediate]
     - Japanese - [Beginner] 
   - Specific Knowledge:
@@ -21,7 +21,7 @@
     - CSS [Advanced]
     - React.js [Intermediate]
     - Vue.js [Beginner]
-  - Intend to Study: (In order of interest (most interested above))
+  - Intend to Study: (In order of interest (most interested at the top of the list))
     - Artificial intelligence
     - Pug.js 
     - Sass 
