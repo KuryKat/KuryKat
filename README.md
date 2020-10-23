@@ -1,4 +1,9 @@
-# Welcome To My GitHub Profile!
+# Welcome To My GitHub! ![Yahallo!](https://cdn.discordapp.com/emojis/450291648367427603.png "Yahallo! 😃")
+  
+![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-6633cc?style=flat-square&labelColor=6633cc&logo=github&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/-@KuryKat-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KuryKat)](https://twitter.com/intent/follow?screen_name=KuryKat)
+[![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactkurykat@gmail.com)](mailto:contactkurykat@gmail.com)
+![Discord Badge](https://img.shields.io/badge/-@𝙆𝙪𝙧𝙪𝙢𝙞%20𝙏𝙤𝙠𝙞𝙨𝙖𝙠𝙞%237872-6633cc?style=flat-square&labelColor=6633cc&logo=discord&logoColor=white)
 
 ## Heya! Personal Informations!
 - My name is [...] ~~Security Reasons~~ 😢
@@ -32,12 +37,7 @@
     - Java
     - PHP 
     - GO 
-
-## Social networks:
-[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Follow%20%40KuryKat&message=😃%20%20👍&color=red&logo=twitter&style=social)](https://twitter.com/KuryKat) 
-
-More Soon...
-
+    
 ## My History:
 Well, telling a little about myself, I'm a Fullstack systems developer, in development, I study these technologies since 2017, I try to learn something new every day, I am always looking to improve my knowledge, even at the age of 16 I believe I can learn a lot before I am 20 years old so that I can be a complete professional and that I can have an extensive curriculum of knowledge and skills.
 
