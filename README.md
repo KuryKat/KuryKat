@@ -59,9 +59,9 @@ Well, now you already know a lot about me, see my events history, as history of 
 - Bot Vendor in Discord (JavaScript) [June 2019 - March 2020]
 
 ### Volunteering History
-- General Manager in an E-Sports team (unpaid) [March 2020 - September 2020]
-- Administrator of a translation community (unpaid) [December 2019 - January 2020]
-- Admin helper on a national Minecraft server (unpaid) [June 2016 - September 2018]
+- General Manager in an E-Sports team [March 2020 - September 2020]
+- Administrator of a translation community [December 2019 - February 2020]
+- Admin helper on a national Minecraft server [June 2018 - September 2019]
 
 
 >     Copyright © 2020 KuryKat
