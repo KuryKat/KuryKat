@@ -15,6 +15,7 @@
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
   - Development
     - Main Language: JavaScript [Expert]
+    - Second Main Language: TypeScript [Advanced]
     - Secondary Language: C# [Intermediate]
   - Languages:
     - Portuguese [Fluent - Native]
