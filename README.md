@@ -14,17 +14,17 @@
 - Specific Informations:
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
   - Development
-    - Main Language: JavaScript [Novice]
-    - Second Main Language: TypeScript [Novice]
+    - Main Language: JavaScript [Advanced]
+    - Second Main Language: TypeScript [Intermediate]
   - Languages:
     - Portuguese [Fluent - Native]
     - English - [Intermediate]
     - Japanese - [Beginner] 
   - Specific Knowledge:
-    - HTML5 [Expert]
-    - Node.js [Advanced]
-    - CSS [Advanced]
-    - React.js [Intermediate]
+    - HTML5 [Advanced]
+    - Node.js [Intermediate]
+    - CSS [Intermediate]
+    - React.js [Beginner]
     - Vue.js [Beginner]
   - Intend to Study: (In order of interest (most interested at the top of the list))
     - Artificial intelligence
