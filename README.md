@@ -21,9 +21,9 @@
     - English - [Intermediate]
     - Japanese - [Beginner] 
   - Specific Knowledge:
-    - HTML5 [Advanced]
-    - Node.js [Intermediate]
+    - HTML5 [Intermediate]
     - CSS [Intermediate]
+    - Node.js [Advanced]
     - React.js [Beginner]
     - Vue.js [Beginner]
   - Intend to Study: (In order of interest (most interested at the top of the list))
