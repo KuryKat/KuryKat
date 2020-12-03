@@ -27,8 +27,11 @@
     - React.js [Beginner]
     - Vue.js [Beginner]
   - Intend to Study: (In order of interest (most interested at the top of the list))
+    - AJAX
+    - Pug
+    - Less
+    - C#
     - Artificial intelligence
-    - Pug.js 
     - Sass 
     - Unity (Game Development) 
     - Blender (3D Rendering) 
