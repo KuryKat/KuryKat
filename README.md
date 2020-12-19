@@ -1,6 +1,6 @@
 # Welcome To My GitHub! ![Yahallo!](https://cdn.discordapp.com/emojis/450291648367427603.png "Yahallo! 😃")
   
-![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)
+[![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)](https://github.com/KuryKat)
 [![Twitter Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KuryKat)](https://twitter.com/intent/follow?screen_name=KuryKat)
 [![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:contactkurykat@gmail.com)](mailto:contactkurykat@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-@Kurumi%20Tokisaki%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
