@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/-@Kurumi%20Tokisaki%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
 
 ## Heya! Personal Informations!
-- My name is [...] ~~Security Reasons~~ 😢
+- My name is Amaro Alexandre
 - My nickname is "KuryKat" 😃
 - I'm 16 years old (27/06/2004) 🎉
 - I live in Brazil 🇧🇷
@@ -48,23 +48,24 @@ I intend to graduate in Computer Science, Postgraduate in Machine Learning and g
 
 Well, now you already know a lot about me, see my events history, as history of Professions, volunteering and experiences, in the lists below: 👏😄
 
+## Github Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=black)](https://github.com/KuryKat)
+
 ### Experiences History:
 - Development of Discord Bots (JavaScript)
-- Development of WEB API's (Node.js)
-- Development of WebSites (HTML/CSS/JS/...)
-- Development of WebSites Using React.js (JavaScript/JSX)
-- Development of WebSites Using Another Frameworks!
-- Development of Games (C#)
+- Development of WEB API's (Express)
+- Development of WebSites
 - [...]
 
 ### Professional History:
-- Freelancer as a Web Developer (Fullstack) [June 2020 - Now]
-- Bot Vendor in Discord (JavaScript) [June 2019 - March 2020]
+- [...]
 
 ### Volunteering History
-- General Manager in an E-Sports team [March 2020 - September 2020]
-- Administrator of a translation community [December 2019 - February 2020]
 - Admin helper on a national Minecraft server [June 2018 - September 2019]
+- Administrator of a translation community [December 2019 - February 2020]
+- General Manager in an E-Sports team [March 2020 - September 2020]
+
 
 
 >     Copyright © 2020 KuryKat
