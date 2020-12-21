@@ -50,7 +50,7 @@ Well, now you already know a lot about me, see my events history, as history of 
 
 ## Github Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=dark&line_height=30)](https://github.com/KuryKat)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
 
 ### Experiences History:
 - Development of Discord Bots (JavaScript)
