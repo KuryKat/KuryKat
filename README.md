@@ -6,8 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/-@Kurumi%20Tokisaki%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
 
 ## Heya! Personal Informations!
-- My name is Amaro Alexandre
-- My nickname is "KuryKat" 😃
+- My name is Amaro "KuryKat" Alexandre
 - I'm 16 years old (27/06/2004) 🎉
 - I live in Brazil 🇧🇷
   
