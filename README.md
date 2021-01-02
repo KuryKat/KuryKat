@@ -41,7 +41,7 @@
     - GO 
     
 ## My History:
-Well, telling a little about myself, I'm a Fullstack systems developer, in development, I study these technologies since 2017, I try to learn something new every day, I am always looking to improve my knowledge, even at the age of 16 I believe I can learn a lot before I am 20 years old so that I can be a complete professional and that I can have an extensive curriculum of knowledge and skills.
+Well, telling a little about myself, I'm a beginner systems developer, I study these technologies since 2017, I try to learn something new every day, I am always looking to improve my knowledge, also i thank you a lot for any learning or contribution you want to give me!
 
 I intend to graduate in Computer Science, Postgraduate in Machine Learning and go through this area of ​​artificial intelligence! I intend to do other graduations parallel to this one, but these are my main ones, I want to be able to have a well done curriculum with enough interesting and Skillful information before I am 25 years old (maybe I can do it, I'm confident!)
 
@@ -64,7 +64,6 @@ Well, now you already know a lot about me, see my events history, as history of 
 - Admin helper on a national Minecraft server [June 2018 - September 2019]
 - Administrator of a translation community [December 2019 - February 2020]
 - General Manager in an E-Sports team [March 2020 - September 2020]
-
 
 
 >     Copyright © 2020 KuryKat
