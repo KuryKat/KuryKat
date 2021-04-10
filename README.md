@@ -5,7 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=instagram&logoColor=white&link=https://instagram.com/KuryKat)](https://instagram.com/KuryKat)
 [![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:contactkurykat@gmail.com)](mailto:contactkurykat@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-@Kurumi%20Tokisaki%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#8b0000', 'T6T748PV3');kofiwidget2.draw();</script> 
 
 ## Heya! Personal Informations!
 - My name is Amaro "KuryKat" Alexandre
