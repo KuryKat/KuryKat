@@ -23,15 +23,15 @@
     - English - [Intermediate]
     - Japanese - [Beginner] 
   - Specific Knowledge:
-    - HTML5 [Intermediate]
-    - CSS [Intermediate]
+    - HTML5 [Advanced]
+    - Pug [Intermediate]
+    - Less [Intermediate]
+    - CSS [Advanced]
     - Node.js [Advanced]
     - React.js [Beginner]
-    - Vue.js [Beginner]
+    - Vue.js [Intermediate]
   - Intend to Study: (In order of interest (most interested at the top of the list))
     - AJAX
-    - Pug
-    - Less
     - C#
     - Artificial intelligence
     - Sass 
@@ -54,13 +54,9 @@ Well, now you already know a lot about me, see my events history, as history of 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
 
-### Experiences History:
-- Development of Discord Bots (JavaScript)
-- Development of WEB API's (Express)
-- Development of WebSites
-- [...]
-
 ### Professional History:
+- [Vale Desentupidora Website](https://valedesentupidora.com.br/)
+- [Moxie Website](https://github.com/KuryKat/Moxie-Website)
 - [...]
 
 ### Volunteering History
