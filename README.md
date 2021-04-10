@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=instagram&logoColor=white&link=https://instagram.com/KuryKat)](https://instagram.com/KuryKat)
 [![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:contactkurykat@gmail.com)](mailto:contactkurykat@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-@Kurumi%20Tokisaki%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T748PV3)
 
 ## Heya! Personal Informations!
@@ -68,4 +69,4 @@ Well, now you already know a lot about me, see my events history, as history of 
 - General Manager in an E-Sports team [March 2020 - September 2020]
 
 
->     Copyright © 2020 KuryKat
+>     Copyright © 2021 KuryKat
