@@ -55,7 +55,7 @@ Well, now you already know a lot about me, see my events history, as history of 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
 
 ### Professional History:
-- [Vale Desentupidora Website](https://valedesentupidora.com.br/)
+- [Vale Desentupidora Website](https://github.com/KuryKat/vale-desentupidora-website)
 - [Moxie Website](https://github.com/KuryKat/Moxie-Website)
 - [...]
 
