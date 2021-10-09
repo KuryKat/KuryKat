@@ -12,6 +12,7 @@
 - My name is Amaro "KuryKat" Alexandre
 - I'm 17 years old (27/06/2004) 🎉
 - I live in Brazil 🇧🇷
+- Best Friend of [Cadelinha](https://github.com/LuckShiba)
   
 - Specific Informations:
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
