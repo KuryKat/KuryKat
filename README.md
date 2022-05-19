@@ -10,7 +10,7 @@
 
 ## Heya! Personal Informations!
 - My name is Amaro "KuryKat" Alexandre
-- I'm 17 years old (27/06/2004) 🎉
+- I'm (almost) 18 years old (27/06/2004) 🎉
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
   
