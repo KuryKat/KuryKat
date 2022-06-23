@@ -55,4 +55,4 @@ Well, now you already know a little about me, see my events history, as history 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
 
->     Copyright © 2022 KuryKat
+>     Copyright © 2022 KuryKat - Last updated at Thursday, June 23, 2022
