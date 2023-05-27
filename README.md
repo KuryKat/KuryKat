@@ -9,14 +9,14 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T748PV3)
 
-## Heya! Personal Informations!
+## Heya! Personal Information!
 - My name is Amaro "KuryKat" Alexandre
 - I'm 18 years old (27/06/2004) 🎉
 - Junior Fullstack Developer
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
   
-- Specific Informations:
+- Specific Information:
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
   - Development
     - Main Language: JavaScript [Advanced]
@@ -55,4 +55,4 @@ Well, now you already know a little about me, see my events history, as history 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
 
->     Copyright © 2022 KuryKat - Last updated at Thursday, June 23, 2022
+>     Copyright © 2023 KuryKat - Last updated at Saturday, May 27, 2023
