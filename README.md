@@ -9,7 +9,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T748PV3)
 
-## Heya! Personal Information! 👀
+## Heya!! Personal Information! 👀
 
 - My name is Amaro "KuryKat" Alexandre
 - I'm 18 years old (27/06/2004) 🎉
