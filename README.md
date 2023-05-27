@@ -1,4 +1,4 @@
-# Welcome To My GitHub! ![Yahallo!](https://cdn.discordapp.com/emojis/450291648367427603.png "Yahallo!! 😃")
+# Welcome To My GitHub! ![Yahallo!](https://cdn.discordapp.com/emojis/450291648367427603.png "Yahallo! 😃")
   
 [![GitHub Badge](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)](https://github.com/KuryKat)
 [![LinkedIn Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurykat/)
