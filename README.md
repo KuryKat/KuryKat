@@ -28,12 +28,14 @@
     - Japanese - [Beginner]
   - Specific Knowledge:
     - HTML5 [Advanced]
+    - CSS3 [Advanced]
+    - NodeJS [Advanced]
+    - ReactJS [Intermediate]
+    - VueJS [Intermediate]
     - Pug [Intermediate]
     - Less [Intermediate]
-    - CSS [Advanced]
-    - Node.js [Advanced]
-    - React.js [Intermediate]
-    - Vue.js [Intermediate]
+    - Python [Intermediate]
+    - Ren'Py [Intermediate]
   - Intend to Study: (In order of interest (most interested at the top of the list))
     - AJAX
     - C#
