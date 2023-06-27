@@ -12,7 +12,7 @@
 ## Heya!! Personal Information! 👀
 
 - My name is Amaro "KuryKat" Alexandre
-- I'm 18 years old (27/06/2004) 🎉
+- I'm 19 years old (27/06/2004) 🎉
 - Junior Fullstack Developer
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
