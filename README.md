@@ -58,7 +58,7 @@ Well, now you already know a little about me, see my events history, as history 
 ## Github Stats
 
 <a href="https://github.com/KuryKat">
-  <img alt="Github Stats" height=200 align="center" src="https://github-stats.kurykat.dev/api?username=KuryKat&theme=tokyonight&show_icons=true&line_height=30&count_private=true&hide_rank=true" />
+  <img alt="Github Stats" height=200 align="center" src="https://github-stats.kurykat.dev/api?username=KuryKat&theme=tokyonight&show_icons=true&line_height=30&count_private=true&hide_rank=true&card_width=500" />
 </a>
 <a href="https://github.com/KuryKat">
   <img alt="Top Languages" height=200 align="center" src="https://github-stats.kurykat.dev/api/top-langs?username=KuryKat&theme=tokyonight&layout=compact&langs_count=8&card_width=320&hide=ren%27py" />
