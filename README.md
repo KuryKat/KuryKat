@@ -57,6 +57,11 @@ Well, now you already know a little about me, see my events history, as history 
 
 ## Github Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=KuryKat&show_icons=true&theme=tokyonight&line_height=30&count_private=true)](https://github.com/KuryKat)
+<a href="https://github.com/KuryKat">
+  <img alt="Github Stats" height=200 align="center" src="https://github-stats.kurykat.dev/api?username=KuryKat&theme=tokyonight&show_icons=true&line_height=30&count_private=true" />
+</a>
+<a href="https://github.com/KuryKat">
+  <img alt="Top Languages" height=200 align="center" src="https://github-stats.kurykat.dev/api/top-langs?username=KuryKat&theme=tokyonight&layout=compact&langs_count=8&card_width=320&hide=ren%27py" />
+</a>
 
->     Copyright © 2023 KuryKat - Last updated at Saturday, May 27, 2023
+>     Copyright © 2024 KuryKat - Last updated at Saturday, March 2, 2024
