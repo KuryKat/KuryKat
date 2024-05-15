@@ -5,14 +5,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=KuryKat)](https://twitter.com/intent/follow?screen_name=KuryKat)
 [![Instagram Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=instagram&logoColor=white&link=https://instagram.com/KuryKat)](https://instagram.com/KuryKat)
 [![Email Badge](https://img.shields.io/badge/-contact@kurykat.dev-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:contact@kurykat.dev)](mailto:contact@kurykat.dev)
-[![Discord Badge](https://img.shields.io/badge/-@KuryKat%237872-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
+[![Discord Badge](https://img.shields.io/badge/-@KuryKat-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)](https://discord.com/users/367425061122211843)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T748PV3)
 
 ## Heya!! Personal Information! 👀
 
 - My name is Amaro "KuryKat" Alexandre
-- I'm 19 years old (27/06/2004) 🎉
+- I'm 19 years old (2004/06/27) 🎉
 - Junior Fullstack Developer
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
