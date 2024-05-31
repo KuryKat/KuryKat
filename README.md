@@ -16,44 +16,12 @@
 - Junior Fullstack Developer
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
-  
-- Specific Information:
-*(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
-  - Development
-    - Main Language: JavaScript [Advanced]
-    - Second Main Language: TypeScript [Advanced]
-  - Languages:
-    - Portuguese [Fluent - Native]
-    - English - [Advanced]
-    - Japanese - [Beginner]
-  - Specific Knowledge:
-    - HTML5 [Advanced]
-    - CSS3 [Advanced]
-    - NodeJS [Advanced]
-    - ReactJS [Intermediate]
-    - VueJS [Intermediate]
-    - Pug [Intermediate]
-    - Less [Intermediate]
-    - Python [Intermediate]
-    - Ren'Py [Intermediate]
-  - Intend to Study: (In order of interest (most interested at the top of the list))
-    - AJAX
-    - C#
-    - Artificial intelligence
-    - Sass
-    - Unity (Game Development)
-    - Blender (3D Rendering)
-    - Electron.js
-    - Kotlin
-    - Java
-    - PHP
-    - GO
 
 ## My History
 
-Well, telling a little about myself, I'm a Junior Fullstack Developer, I study these technologies since 2017, I try to learn something new every day, I am always looking to improve my knowledge, also i thank you a lot for any learning or contribution you want to give me! I want to be able to have a well done curriculum with enough interesting and Skillful information before I am 25 years old (I can do it, I'm confident!)
+I'm a Junior Fullstack Developer, and I've been studying these technologies since 2017. I'm dedicated to learning something new every day and continuously improving my knowledge. I greatly appreciate any learning opportunities or contributions you can offer. I am confident that I can achieve my goal of becoming a highly skilled developer before I turn 25.
 
-Well, now you already know a little about me, see my events history, as history of Professions, volunteering and experiences, in [my LinkedIn profile](https://www.linkedin.com/in/kurykat/) 👏😄
+Now that you know a bit about me, feel free to check out my professional history, volunteer work, and experiences on [my LinkedIn profile](https://www.linkedin.com/in/kurykat/) 👏😄
 
 ## Github Stats
 
