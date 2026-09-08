@@ -9,14 +9,14 @@
 ## Heya!! About Me! 👀
 
 - My name is KuryKat 🐾
-- I'm 21 years old (2004/06/27) 🎉
-- Fullstack Developer
+- I'm 22 years old (2004/06/27) 🎉
+- Full-stack Developer
 - I live in Brazil 🇧🇷
 - Best Friend of a [Needy Doggie](https://github.com/LuckShiba)
 
 ## My History
 
-I'm a Fullstack Developer, and I've been studying these technologies since 2017. I'm dedicated to learning something new every day and continuously improving my knowledge. I greatly appreciate any learning opportunities or contributions you can offer.
+I'm a Full-stack Developer, and I've been studying these technologies since 2017. I'm dedicated to learning something new every day and continuously improving my knowledge. I greatly appreciate any learning opportunities or contributions you can offer.
 
 ## 🛠 Tech Stack
 
